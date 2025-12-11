@@ -1,0 +1,7 @@
+{
+  "name": "PSUIC Helpdesk App",
+  "description": "A comprehensive IT helpdesk application for students, staff, and administrators featuring ticket management, room scanning, appointments, and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
